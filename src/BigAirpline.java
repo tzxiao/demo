@@ -1,13 +1,11 @@
-public class BigAirpline {
-     int width;
-     int height;
-     int x;
-     int y;
+public class BigAirpline extends FlyingOject {
+
      int speed;
+
      BigAirpline(){
 
      }
     public void step(){
-         System.out.println("´óµÐ»úÒÆ¶¯");
+         System.out.println("å¤§æ•Œæœºç§»åŠ¨");
     }
 }

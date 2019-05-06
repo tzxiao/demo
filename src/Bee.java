@@ -1,13 +1,11 @@
-public class Bee {
-    int width;
-    int height;
-    int x;
-    int y;
-    int speed;
+public class Bee extends FlyingOject{
+    int xspeed;
+    int yspeed;
+    int awardType;
     Bee(){
 
     }
     public void step(){
-        System.out.println("С�۷��ƶ�");
+        System.out.println("小蜜蜂移动了");
     }
 }

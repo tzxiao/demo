@@ -1,13 +1,10 @@
-public class Airpline {
-    int width;
-    int height;
-    int x;
-    int y;
+public class Airpline extends FlyingOject {
+
     int speed;
     Airpline(){
 
     }
     public void step(){
-        System.out.println("С�л��ƶ�");
+        System.out.println("小敌机移动了");
     }
 }
