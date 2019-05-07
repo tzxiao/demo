@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="73ef8b22-de9d-4d23-82da-4a084e87ae0d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo/Airpline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo/Bee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo/BigAirpline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/demo/World.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Airpline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Airpline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FlyingOject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlyingOject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Airpline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BigAirpline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlyingOject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo01.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,13 +164,13 @@
       <updated>1557119821912</updated>
       <workItem from="1557119821926" duration="2171000" />
       <workItem from="1557122463565" duration="7860000" />
-      <workItem from="1557190959389" duration="263000" />
+      <workItem from="1557190959389" duration="1225000" />
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12503000" />
+    <option name="totallyTimeSpent" value="13465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
@@ -184,7 +183,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3286517" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286517" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
