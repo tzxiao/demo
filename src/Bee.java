@@ -6,6 +6,6 @@ public class Bee extends FlyingOject{
 
     }
     public void step(){
-        System.out.println("小蜜蜂移动了");
+        System.out.println("小蜜蜂移动了"+xspeed+yspeed);
     }
 }

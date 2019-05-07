@@ -1,4 +1,4 @@
-﻿public class FlyingOject {
+﻿public abstract class FlyingOject {
     int width;
     int height;
     int x;
@@ -6,7 +6,6 @@
     FlyingOject(){
 
     }
-    public void step(){
-        System.out.println("飞行物移动了");
-    }
+    public abstract void step();
+
 }
